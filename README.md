@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Hossam's github stats](https://github-readme-stats.vercel.app/api?username=HossamHoussien)](https://github.com/HossamHoussien/github-readme-stats)
 
 <!--
 **HossamHoussien/HossamHoussien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
